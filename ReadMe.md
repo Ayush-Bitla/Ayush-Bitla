@@ -4,9 +4,6 @@
 <p align="center">Turning imagination into reality 🚀</p>
 <p align="center">
 
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Ayush-Bitla&label=Profile%20Views&color=0&icon=0&pretty=false" />
-</a>
 # 💫 About Me:
 I am Ayush Bitla, a passionate student pursuing a Bachelor's in Information Technology at Vidyalankar Institute of Technology. Throughout my academic journey, I have gained hands-on experience in various programming languages and technologies which provided me with a solid foundation in computer science and problem-solving skills.<br><br>I have worked on diverse projects ranging from robotics, where I built an industrial robotic arm, to developing a 3D-printed VR Oculus headset. My expertise also extends to Augmented Reality (AR) and Virtual Reality (VR), which I have integrated into several innovative projects.<br><br>Currently, I am focused on expanding my knowledge in Artificial Intelligence and Machine Learning through a dual degree program. My work demonstrates a blend of technical prowess and creativity, which I believe is crucial in the rapidly evolving tech landscape.<br><br>Thank you for visiting my profile. I hope my work inspires you as much as it has inspired me
 
