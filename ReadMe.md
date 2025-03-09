@@ -158,9 +158,3 @@ I am Ayush Bitla, a passionate student pursuing a Bachelor’s in Information Te
 <p align="center">
 <img src="https://github.com/Ayush-Bitla/Ayush-Bitla/blob/main/output/github-contribution-grid-snake.svg">
 </p>
-
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Ayush-Bitla&label=Profile%20Views&color=12&icon=4&pretty=true" />
-</a>
-
-<!-- Proudly created with -->
